@@ -1,0 +1,14 @@
+# check installed docker version
+docker --version
+
+# check status of the docker service
+systemctl status docker
+
+# add the current user to the docker group
+sudo usermod -a -G docker $USER
+
+# get the new group assigment without logging out/in
+su - $USER
+
+# check that we are indeed a member of the docker group
+groups
