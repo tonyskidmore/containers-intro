@@ -12,3 +12,6 @@ su - $USER
 
 # check that we are indeed a member of the docker group
 groups
+
+# get docker component versions
+docker version
