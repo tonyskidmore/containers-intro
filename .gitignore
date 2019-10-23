@@ -1,0 +1,4 @@
+/docs/gruntfile.js
+/docs/package*
+node_modules/
+.DS_Store
