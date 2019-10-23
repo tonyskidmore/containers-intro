@@ -1,11 +1,16 @@
 <!-- .slide: data-background="#FB8033" -->
 <center>
-# Introduction to Containers <!-- .element: class="intro-header" -->
-
-with <!-- .element: style="color:white" -->
-
-**Kasia Siedlarek** <!-- .element: style="color:white" --> <br />
-**Tony Skidmore** <!-- .element: style="color:white" -->
+First Tech Session as part of "Collaboration Year" <!-- .element: style="color:white" -->
 
 !SUB
-Tech Session as part of "Collaboration Year"
+Base info about collaboration year and links will go here.
+
+!SUB
+Introduction to Containers <!-- .element: class="intro-header" -->
+
+with <!-- .element: style="color:orange" -->
+
+**Kasia Siedlarek** <!-- .element: style="color:black" --> <br />
+**Tony Skidmore** <!-- .element: style="color:black" -->
+
+
