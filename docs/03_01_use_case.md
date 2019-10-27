@@ -1,9 +1,11 @@
 <!-- .slide: data-background="#FB8033" -->
 <center>
 
-To host an application in Azure Web App for Containers
+Azure DevOps - Pipelines
 
 !SUB
-# Presentation
+Azure DevOps: repos, boards, pipelines, wiki, tests - all in one place
+Start for free: https://azure.microsoft.com/en-us/services/devops/
+Docs: https://azure.microsoft.com/en-us/services/devops/pipelines/
 
-This presentation is being hosted as a container
+
