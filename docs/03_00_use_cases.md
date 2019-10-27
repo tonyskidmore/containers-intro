@@ -3,12 +3,15 @@
 # Use Cases?
 
 !SUB
-## How could they be used?
+## Where containers might be useful...?
 
-- Here
-- Here
-- Here
-- Here
+- Azure DevOps Pipelines - executing code
+- File processing
+- Automated testing
+- Azure Healthcheck
+- App dynamic provisioning (GitLab, Jenkins, ...)
+- Hosting Windows applications
+- ...
 
 !NOTE
 Some use cases to be listed above.

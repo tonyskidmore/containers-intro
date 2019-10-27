@@ -280,7 +280,10 @@ Links
 /*
 Images
 */
-.reveal section img {}
+.reveal section img {
+  padding: 20px;
+  margin: auto;
+}
 .reveal section img.plain {}
 .reveal a img {}
 .reveal a:hover img {}
@@ -320,3 +323,5 @@ Slide number
 .reveal section img.noblock {}
 .reveal section img.header {}
 .reveal ol, .reveal dl, .reveal ul {}
+
+
