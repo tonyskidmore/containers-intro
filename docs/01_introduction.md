@@ -9,6 +9,7 @@ First Tech Session as part of "Collaboration Year" <!-- .element: style="color:w
 # Next scheduled sessions
 - Powershell Debugging: 29.11.2019
 - Ansible Basics: 05.12.2019
+- How Business Intelligence dashboards can mislead and the dangers of summary metrics: 16.12.2019
 
 !SUB
 **Introduction to Containers** <!-- .element: class="intro-header" -->

@@ -123,6 +123,3 @@ It is an unit of organisation to make managing objects easier.
 - More lightweight than virtual machines (efficiency, time, costs)
 - If designed well, can be more secure way of developing apps
 
-!NOTE
-- some: notes
-- more: notes
