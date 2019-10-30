@@ -13,5 +13,4 @@
 - Hosting Windows applications
 - ...
 
-!NOTE
-Some use cases to be listed above.
+
